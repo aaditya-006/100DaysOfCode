@@ -99,6 +99,9 @@ button span{
     font-size: 80px;
     font-weight: 400;
 }
+.text-container p{
+    margin-top: 25px;
+}
 
 .text-container a{
     text-decoration: none;
@@ -111,11 +114,12 @@ button span{
     border-radius: 30px ;
 }
 
+
 .control{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin-top: 150px;
+    margin-top: 160px;
 }
 
 .control .line{
