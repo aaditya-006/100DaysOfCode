@@ -11,7 +11,7 @@
     <div class="hero">
         <nav>
             <img src="images/menu.png" alt="Menu Image" class="menu-img">
-            <img src="images/logo.png" alt="Logo of Developer" class="logo">
+            <img src="images/logo.png" alt="Logo of Developer" class="logo" id="light">
 
             <ul>
                 <li><a href="">Latest</a></li>
@@ -43,9 +43,11 @@
 
     <script>
         var btn = document.getElementById("btn");
+        var light = document.getElementById("light");
 
         function toggleBtn(){
-            btn.classList.toggle("active")
+            btn.classList.toggle("active");
+            light.classList.toggle("on");
         }
 
     </script>
