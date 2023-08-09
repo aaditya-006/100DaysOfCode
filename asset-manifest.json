@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-ReactJs/static/css/main.46df7538.css",
+    "main.js": "/Landing-Page-ReactJs/static/js/main.c381ffaf.js",
+    "static/media/img.jpg": "/Landing-Page-ReactJs/static/media/img.8308513909c546a3b665.jpg",
+    "index.html": "/Landing-Page-ReactJs/index.html",
+    "main.46df7538.css.map": "/Landing-Page-ReactJs/static/css/main.46df7538.css.map",
+    "main.c381ffaf.js.map": "/Landing-Page-ReactJs/static/js/main.c381ffaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46df7538.css",
+    "static/js/main.c381ffaf.js"
+  ]
+}
